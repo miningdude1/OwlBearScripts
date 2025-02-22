@@ -6,7 +6,7 @@
   "description": "Fetch data from a Python REST API",
   "icon": "icon.png",
   "action": {
-    "displayName": "Fetch from API",
+    "title": "Fetch from API",
     "defaultPopout": true,
     "url": "index.html"
   }
