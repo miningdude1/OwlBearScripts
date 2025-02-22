@@ -1,12 +1,13 @@
 {
-  "name": "Hello, World!",
+  "id": "com.example.pythonapi",
+  "name": "Python API Example",
   "version": "1.0.0",
   "manifest_version": 1,
+  "description": "Fetch data from a Python REST API",
+  "icon": "icon.png",
   "action": {
-    "title": "Hello, World!",
-    "icon": "/icon.svg",
-    "popover": "/",
-    "height": 600,
-    "width": 400
+    "displayName": "Fetch from API",
+    "defaultPopout": true,
+    "url": "index.html"
   }
 }
