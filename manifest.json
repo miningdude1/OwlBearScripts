@@ -1,7 +1,7 @@
 {
   "id": "com.example.pythonapi",
   "name": "Python API Example",
-  "manifest_version": "1.0.0",
+  "version": "1.0.0",
   "description": "Fetch data from a Python REST API",
   "icon": "icon.png",
   "action": {
