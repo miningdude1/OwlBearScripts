@@ -1,4 +1,5 @@
 {
+  "manifest_version": 1,
   "id": "com.example.pythonapi",
   "name": "Python API Example",
   "version": "1.0.0",
